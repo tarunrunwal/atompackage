@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "readfile:toggle"
   },
- 
+  "repository": "https://github.com/tarunrunwal/atompackage",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
