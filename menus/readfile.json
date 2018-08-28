@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle readfile",
+        "command": "readfile:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "readfile",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "readfile:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

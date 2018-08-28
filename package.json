@@ -1,0 +1,16 @@
+{
+  "name": "readfile",
+  "main": "./lib/readfile",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "readfile:toggle"
+  },
+ 
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
